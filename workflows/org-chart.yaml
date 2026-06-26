@@ -36,7 +36,8 @@ people:
     title: 차장
     department: 숙의컨설팅본부
     email: jj@kspeaks.kr
-    notes: 김상희·김지민 단기직원 급여시트 담당자(시트 소유자)
+    slack_user_id: U0B6DST2F0S
+    notes: 김상희·김지민 단기직원 급여시트 담당자(시트 소유자). 급여 워크플로우 확인 담당 차장.
 
   - name: 방희영
     title: 차장
