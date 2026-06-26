@@ -2,7 +2,7 @@
 
 > 일반업무 워크플로우 · 매월 1회 · 대상: 김상희·김지민(단기직원)
 >
-> 🎨 **Figma(FigJam) 다이어그램:** https://www.figma.com/board/wqbev8CvjGjtiduPeCoKtw
+> 🎨 **Figma(FigJam) 다이어그램:** https://www.figma.com/board/TB9eM9ydMNCPJL6dQTTrLA
 
 ## 개요
 
