@@ -7,7 +7,7 @@
 | 워크플로우 | 주기 | 설명 | Figma |
 |------------|------|------|-------|
 | [월간 단기직원 급여 → 세무사](./monthly-payroll-tax.md) | 매월 26일경 | 단기직원 급여 계산·차장 확인·세무사 급여명세서 요청 (급여명세서 발급의 **선행**) | [FigJam](https://www.figma.com/board/TB9eM9ydMNCPJL6dQTTrLA) |
-| [급여명세서 발급 자동화](./payslip-automation/README.md) | 매월 말 | 2026_sal "급여명세서" 탭 → PDF 생성 → 승인 → 직원 발송 (Apps Script, **후행**) | — |
+| [급여명세서 발급 자동화](./payslip-automation/README.md) | 매월 말 | 2026_sal "급여명세서" 탭 → PDF 생성 → 승인 → 직원 발송 (Apps Script, **후행**) | [FigJam](https://www.figma.com/board/nfeVKOUMd1jCqiXGmgjmsZ) |
 
 ## 공용 데이터
 - [`org-chart.yaml`](./org-chart.yaml) — 조직도(자동화용). "담당 차장" 등 라우팅에 사용.

@@ -1,5 +1,8 @@
 # 급여명세서 발급 자동화 (별동수)
 
+> 🎨 **Figma 다이어그램:** https://www.figma.com/board/nfeVKOUMd1jCqiXGmgjmsZ
+> (파랑=별동수 자동 · 노랑=대표 판단/승인 2곳 · 회색=세무사)
+
 `2026_sal` 스프레드시트의 **"급여명세서" 탭 → 직원별 PDF 생성 → 발송**을 자동화한다.
 Autocrat가 하던 머지를 같은 템플릿으로 Apps Script가 직접 수행하되, **발송 직전 대표 승인 게이트**를 둔다.
 
