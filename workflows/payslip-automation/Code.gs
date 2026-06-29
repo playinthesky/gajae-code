@@ -19,7 +19,7 @@
 
 const CONFIG = {
   DATA_SHEET_NAME: '급여명세서',                 // Autocrat 데이터 탭 (gid 939827998)
-  TEMPLATE_DOC_ID: '16290h-2k5OPyWY-2UrKIHsPQXEVsNzttFMiAuCY4Kyw', // ⚠️ 실제 템플릿 Doc ID 확인
+  TEMPLATE_DOC_ID: '16290h-2k5OPyWY-2UrKIHsPQXEVsNzttFMiAuCY4Kyw', // ✅ 검증됨: 급여명세서 템플릿(<<태그>> = 탭 컬럼 일치)
   OUTPUT_FOLDER_ID: '1Xl_clzgT7dUqVpwqwH3TUxo6FyTeW_wi',           // PDF 저장 폴더
 
   // 열 이름(헤더와 정확히 일치해야 함)
